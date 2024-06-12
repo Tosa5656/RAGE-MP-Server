@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    },
+    "RunServer": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\anton\\Desktop\\Server\\ragemp-server.exe",
+      "workingDirectory": "C:\\Users\\anton\\Desktop\\Server"
+    }
+  }
+}

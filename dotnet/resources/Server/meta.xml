@@ -1,0 +1,5 @@
+<meta>
+	<info name="Server" description="Mode" />
+	
+	<script src="Debug\net8.0\Server.dll"/>
+</meta>

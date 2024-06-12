@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anton\\Desktop\\Server\\core\\Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{042DAE2B-6BD6-49FB-9BF4-BCD19EDBF9D8}|Server\\Server.csproj|c:\\users\\anton\\desktop\\server\\core\\server\\server\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{042DAE2B-6BD6-49FB-9BF4-BCD19EDBF9D8}|Server\\Server.csproj|solutionrelative:server\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D742C0B3-B85F-4CA5-8FA4-93B85E050CD8}|..\\..\\client_packages\\cs_packages\\Client\\Client.csproj|c:\\users\\anton\\desktop\\server\\client_packages\\cs_packages\\client\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\Server\\client_packages\\cs_packages\\Client\\Main.cs",
+              "RelativeDocumentMoniker": "..\\..\\client_packages\\cs_packages\\Client\\Main.cs",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\Server\\client_packages\\cs_packages\\Client\\Main.cs",
+              "RelativeToolTip": "..\\..\\client_packages\\cs_packages\\Client\\Main.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:27:58.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Events.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\Server\\core\\Server\\Server\\Events.cs",
+              "RelativeDocumentMoniker": "Server\\Events.cs",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\Server\\core\\Server\\Server\\Events.cs",
+              "RelativeToolTip": "Server\\Events.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:04:34.837Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
